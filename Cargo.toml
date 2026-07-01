@@ -1,6 +1,6 @@
 [package]
 name = "refineable-gpui-standalone"
-version = "1.8.2"
+version = "1.9.0"
 license = "Apache-2.0"
 description = "A macro for creating 'refinement' types that can be used to partially initialize or mutate a complex struct"
 edition = "2024"
@@ -12,4 +12,4 @@ doctest = false
 name = "refineable"
 
 [dependencies]
-derive_refineable = {package = "derive_refineable-gpui-standalone", version = "1.8.2"}
+derive_refineable = {package = "derive_refineable-gpui-standalone", version = "1.9.0"}
